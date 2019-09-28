@@ -19,4 +19,5 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.0',
+    requires=['math']
 )
